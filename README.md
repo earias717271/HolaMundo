@@ -4,7 +4,8 @@ Este es el repositorio para clase de **metodos y tecnicas de la UEMC**
 ## Una cabecera
 [Mi pagina personal](http://www.google.es)
 
-[Un enlase interno](#unenlace)
+[Un enlase interno](#unenlaceyotro)
 
-### un enlace
+### un enlace. Y otro
 
+Acepto todo tipo de propuesta de mejora en mi repositorio.....
